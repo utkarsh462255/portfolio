@@ -1,7 +1,7 @@
 {
   "name": "portfolio-website",
   "version": "0.1.1",
-  "homepage": "http://localhost:3000/",
+  "homepage": "https://portfolio-git-main-utkarsh462255.vercel.app/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.3.3",
