@@ -217,7 +217,7 @@ export const projects = [
     webapp: "https://zoom-clone-utkarsh462255.vercel.app/",
   },
   {
-    id: 3,
+    id: 7,
     title: "Personal Portfolio",
     date: "March 2024",
     description:
