@@ -204,6 +204,32 @@ export const projects = [
     webapp: "",
   },
   {
+    id: 2,
+    title: "Video Conferencing Web App",
+    date: "July 2024 - Aug 2024",
+    description:
+      "The Video Conferencing Web App is a robust platform designed for seamless virtual meetings. It enables users to host and join video calls with high-quality audio and video, screen sharing, and integrated chat. Perfect for remote teams, online education, and virtual events, the app offers secure, real-time communication on any device. With a user-friendly interface, multi-user support, and responsive design, it delivers an efficient and reliable solution for modern collaboration.",
+    image:
+      "https://github.com/utkarsh462255/images/blob/main/zoomHome.png",
+    tags: ["Next.js", "TypeScript", "Tailwind CSS", "Clerk", "shadcn", "getstream"],
+    category: "web app",
+    github: "https://github.com/utkarsh462255/zoom-clone",
+    webapp: "https://zoom-clone-utkarsh462255.vercel.app/",
+  },
+  {
+    id: 3,
+    title: "Personal Portfolio",
+    date: "March 2024",
+    description:
+      " Welcome to my Personal Portfolio, a streamlined showcase of my skills, projects, and professional journey. Featuring a clean, modern design, it offers a clear view of my expertise and achievements. Explore detailed sections on my background, experience, key projects, and contact information. Designed for responsiveness and performance, this portfolio embodies my commitment to quality and serves as a digital extension of my personal brand.",
+    image:
+      "https://github.com/utkarsh462255/images/blob/main/portfolioHome.png",
+    tags: ["React Js", "TailwindCSS", "MUI"],
+    category: "web app",
+    github: "https://github.com/utkarsh462255/portfolio",
+    webapp: "https://portfolio-utkarsh462255.vercel.app/",
+  },
+  {
     id: 5,
     title: "Todo Web App",
     date: "Jun 2024",
@@ -215,19 +241,6 @@ export const projects = [
     category: "web app",
     github: "https://github.com/utkarsh462255/To-do-list",
     webapp: "https://incredible-torrone-82e34c.netlify.app/",
-  },
-  {
-    id: 2,
-    title: "Video Conferencing Web App",
-    date: "July 2024 - Aug 2024",
-    description:
-      "The Video Conferencing Web App is a robust platform designed for seamless virtual meetings. It enables users to host and join video calls with high-quality audio and video, screen sharing, and integrated chat. Perfect for remote teams, online education, and virtual events, the app offers secure, real-time communication on any device. With a user-friendly interface, multi-user support, and responsive design, it delivers an efficient and reliable solution for modern collaboration.",
-    image:
-      "https://drive.google.com/file/d/1Ngc6kl6aiEYBqjJDwcPQWOErSb_RC4WK/view?usp=drivesdk",
-    tags: ["Next.js", "TypeScript", "Tailwind CSS", "Clerk", "shadcn", "getstream"],
-    category: "web app",
-    github: "https://github.com/utkarsh462255/zoom-clone",
-    webapp: "https://zoom-clone-utkarsh462255.vercel.app/",
   },
 ];
 
