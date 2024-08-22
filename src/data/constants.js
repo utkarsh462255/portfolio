@@ -8,7 +8,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/utkarsh462255",
   resume:
-    "https://drive.google.com/file/d/1CRDbfj0ZLZaQQ6e_4ktKW0ylpJhkRrpo/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1-88KzCpsS1VL47RESwdUO06V-x9r_0Sb/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/utkarsh-singh-vivek-b15a1025b/",
   twitter: "https://twitter.com/utkarsh462255",
   };
@@ -210,7 +210,7 @@ export const projects = [
     description:
       "The Video Conferencing Web App is a robust platform designed for seamless virtual meetings. It enables users to host and join video calls with high-quality audio and video, screen sharing, and integrated chat. Perfect for remote teams, online education, and virtual events, the app offers secure, real-time communication on any device. With a user-friendly interface, multi-user support, and responsive design, it delivers an efficient and reliable solution for modern collaboration.",
     image:
-      "https://www.bing.com/images/search?view=detailV2&ccid=mZHoF590&id=FBF0674B1CED661CBF00B0A33E871517171FDE38&thid=OIP.mZHoF590GISnXqAnDE5xnQHaEK&mediaurl=https%3A%2F%2Fnajigram.com%2Fwp-content%2Fuploads%2F2022%2F01%2Ftalk-nextcloud.jpg&exph=551&expw=980&q=video+conferencing+apps+image&simid=608022311718623493&form=IRPRST&ck=2311A2EB761F2587450537F20476F6BE&selectedindex=0&itb=0&cw=1685&ch=902&ajaxhist=0&ajaxserp=0&pivotparams=insightsToken%3Dccid_yJzcqASx*cp_A6553FA0443B78A9D824AE019A308A31*mid_A20859140E41B420E48620B1B42D09BBD376447A*simid_608044611206263324*thid_OIP.yJzcqASxy!_pIG!_YO9gk46AHaEK&vt=0&sim=11&iss=VSI&ajaxhist=0&ajaxserp=0",
+      "https://drive.google.com/file/d/1HupsSmtWOzzS1hYv5yT5Z0649MOvTcu6/view?usp=sharing",
     tags: ["Next.js", "TypeScript", "Tailwind CSS", "Clerk", "shadcn", "getstream"],
     category: "web app",
     github: "https://github.com/utkarsh462255/zoom-clone",
@@ -223,11 +223,24 @@ export const projects = [
     description:
       " Welcome to my Personal Portfolio, a streamlined showcase of my skills, projects, and professional journey. Featuring a clean, modern design, it offers a clear view of my expertise and achievements. Explore detailed sections on my background, experience, key projects, and contact information. Designed for responsiveness and performance, this portfolio embodies my commitment to quality and serves as a digital extension of my personal brand.",
     image:
-      "https://www.bing.com/images/search?q=personal%20portfolio%20website%20for%20web%20developer&qs=n&form=QBIRMH&sp=-1&lq=0&pq=personal%20portfolio%20website%20for%20web%20developer&sc=8-44&cvid=17E90DF94FCD4869A539926ED636F22B&ghsh=0&ghacc=0&first=1",
+      "https://drive.google.com/file/d/1b_fTMZ47vDSsNtjOvDxt3RYLJnQqLldy/view?usp=sharing",
     tags: ["React Js", "TailwindCSS", "MUI"],
     category: "web app",
     github: "https://github.com/utkarsh462255/portfolio",
     webapp: "https://portfolio-utkarsh462255.vercel.app/",
+  },
+  {
+    id: 3,
+    title: "Social Media Web Application",
+    date: "Aug 2024",
+    description:
+      "Developed Snapgram, a feature-rich Social media web application, to replicate core social media functionalities including user authentication, post creation, likes, and comments.Successfully delivered a high-performance, user-centric social media application, demonstrating strong skills in full-stack development, user interface design, and performance optimization.",
+    image:
+      "https://drive.google.com/file/d/1AtPp4JGo8Ep3kZ0-jQwaEAb42pmX7DVo/view?usp=sharing",
+    tags: ["React.js", "TypeScript", "Tailwind CSS", "Appwrite", "shadcn"],
+    category: "web app",
+    github: "https://github.com/utkarsh462255/snapgram",
+    webapp: "https://snapgram-utkarsh462255.vercel.app/",
   },
   {
     id: 5,
