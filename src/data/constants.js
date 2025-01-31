@@ -165,7 +165,7 @@ export const education = [
     img: "https://www.campusoption.com/images/colleges/logos/14_11_16_090247_AIMT_LL.jpg",
     school: "Ambalika Institute of Management and Technology, Lucknow",
     date: "Aug 2021 - Aug 2025",
-    grade: "7.5 CGPA",
+    grade: "8.1 CGPA",
     desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Ambalika Institute of Management and Technology, Lucknow. I have completed 6 semesters and have a CGPA of 7.5 . I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
