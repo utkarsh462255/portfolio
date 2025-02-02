@@ -8,7 +8,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/utkarsh462255",
   resume:
-    "https://drive.google.com/file/d/1-88KzCpsS1VL47RESwdUO06V-x9r_0Sb/view?usp=sharing",
+    "https://drive.google.com/file/d/1bNfToSRB4NSjxyOCQ3W16lVUvnyy725d/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/utkarsh-singh-vivek-b15a1025b/",
   twitter: "https://twitter.com/utkarsh462255",
   };
